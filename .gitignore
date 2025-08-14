@@ -20,3 +20,7 @@ venv/
 .*
 tmp.*
 tmp/
+
+
+# Test files
+tests/
