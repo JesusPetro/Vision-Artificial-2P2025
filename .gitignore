@@ -24,3 +24,6 @@ tmp/
 
 # Test files
 tests/
+
+# No html
+*.html
